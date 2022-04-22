@@ -1,0 +1,38 @@
+YEAR: 1990
+MONTH 1
+DAY 1
+hour: 0 temp: -10
+hour: 12 temp: 0
+hour: 18 temp: 2
+DAY 3
+hour: 2 temp: 10
+==========================================
+YEAR: 1991
+MONTH 6
+DAY 6
+hour: 2 temp: 21
+==========================================
+YEAR: 1992
+MONTH 1
+DAY 1
+hour: 0 temp: 61.5
+MONTH 2
+DAY 1
+hour: 1 temp: 64
+DAY 2
+hour: 2 temp: 65.2
+==========================================
+YEAR: 2000
+MONTH 2
+DAY 1
+hour: 0 temp: 67.2
+hour: 1 temp: 68
+DAY 2
+hour: 3 temp: 66.66
+MONTH 12
+DAY 14
+hour: 0 temp: -2
+DAY 15
+hour: 14 temp: -8.8
+hour: 15 temp: -9.2
+==========================================

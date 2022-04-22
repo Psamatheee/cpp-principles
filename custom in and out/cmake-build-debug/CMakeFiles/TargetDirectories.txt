@@ -1,0 +1,3 @@
+/home/julia/CLionProjects/custom in and out/cmake-build-debug/CMakeFiles/custom_in_and_out.dir
+/home/julia/CLionProjects/custom in and out/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/julia/CLionProjects/custom in and out/cmake-build-debug/CMakeFiles/rebuild_cache.dir

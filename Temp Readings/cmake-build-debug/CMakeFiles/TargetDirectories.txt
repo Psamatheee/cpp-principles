@@ -1,0 +1,3 @@
+/home/julia/CLionProjects/Temp Readings/cmake-build-debug/CMakeFiles/Temp_Readings.dir
+/home/julia/CLionProjects/Temp Readings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/julia/CLionProjects/Temp Readings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
